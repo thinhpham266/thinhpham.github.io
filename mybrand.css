@@ -1,0 +1,79 @@
+body{
+	background-color: gray;
+    color: brown;
+    font-family: Courier New;
+
+}
+header{
+	  text-align:center; 
+	padding-top: 30px;
+}
+figure{
+
+	
+	color: white;
+	text-align: center;
+}
+
+main{
+	color: black;
+	
+	
+
+}
+h1 {
+	color: black;
+	text-align: center;
+	font-size:32px;
+}
+img:hover{
+        opacity: 0.8;
+		
+    }
+img{}
+
+
+
+ul{
+
+
+}
+
+
+li{
+
+
+}
+p{
+
+}
+p.thick {
+    font-weight: bold;
+}
+footer
+{
+	text-align: center;
+	padding: 20px;
+}
+
+a{
+	color: blue;
+}
+a:link {
+    color: gold;
+}
+
+
+a:visited {
+    color: white;
+}
+
+
+a:hover {
+    color: black;
+}
+
+
+a:active {
+    color: blue;
+}

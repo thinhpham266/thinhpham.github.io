@@ -1,0 +1,110 @@
+body{
+    font-family: serif;;
+
+}
+header{
+	  border: 5px white;
+	  border-style: inset;
+  margin: auto;  
+  padding: 20px;
+  text-align: center;
+  background-color: #707B7C;
+color: brown;	
+}
+ul {
+  list-style-type: none;
+
+  overflow: hidden;
+  background-color: gray;
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+figure{
+
+	
+	color: white;
+	text-align: center;
+}
+
+main{
+	color: black;
+	
+	
+
+}
+h1 {
+	color: #c48f65	 ;
+	text-align: center;
+	font-size:60px;
+	 text-shadow: 2px 2px black;
+}
+
+
+
+
+
+p{
+
+}
+p.thick {
+    font-weight: bold;
+}
+footer
+{
+	margin-bottom: 10px;
+	text-align: center;
+	padding: 20px;
+}
+
+a{
+	color: blue;
+}
+a:link {
+    color: gold;
+}
+
+
+a:visited {
+    color: white;
+}
+
+
+a:hover {
+    color: black;
+}
+
+
+a:active {
+    color: blue;
+}
+div.monbac{
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 gray;
+	background-color: #DCDCDC;
+	overflow: auto;
+	
+
+}
+div.monbac img {
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 red;
+	float: right;
+}
+div.monbac p{
+	font-size:25px;
+}
+div.hoatrung {
+	clear:right;
+}
